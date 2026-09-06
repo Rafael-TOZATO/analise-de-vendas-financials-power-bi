@@ -32,3 +32,12 @@ Para visualizar o projeto completo, realize o download do arquivo presente neste
 - **Arquivo:** [Desafio_Power_BI_Analyst_DIO.pbix](./Desafio_Power_BI_Analyst_DIO.pbix)
 
 Após o download, abra o arquivo utilizando o software **Power BI Desktop**.
+
+---
+
+## 📞 Contato
+
+- **E-mail:** [ornelas.tozato@gmail.com](mailto:ornelas.tozato@gmail.com)
+- **LinkedIn:** [Rafael Ornelas Tozato](https://www.linkedin.com/in/rafaeltozato81)
+- **Medium:** [Rafael Ornelas Tozato](https://medium.com/@ornelas.tozato)
+- **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
