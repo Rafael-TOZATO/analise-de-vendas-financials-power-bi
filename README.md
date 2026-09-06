@@ -1,5 +1,7 @@
 # Desafio de Projeto: Análise de Vendas com Power BI (Financials)
 
+![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
+
 Repositório desenvolvido como parte do desafio prático de Power BI da plataforma **DIO**, com foco na criação de relatórios gerenciais e interativos.
 
 ---
