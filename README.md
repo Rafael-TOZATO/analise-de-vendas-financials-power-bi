@@ -106,3 +106,4 @@ Após o download, abra o arquivo utilizando o software **Power BI Desktop**.
 - **LinkedIn:** [Rafael Ornelas Tozato](https://www.linkedin.com/in/rafaeltozato81)
 - **Medium:** [Rafael Ornelas Tozato](https://medium.com/@ornelas.tozato)
 - **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+- **Lovable:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
