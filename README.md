@@ -35,6 +35,7 @@ O projeto está dividido em páginas com os seguintes recursos implementados:
   - Layout estruturado com identidade visual corporativa.
   - Gráficos e visuais de desempenho de vendas, lucro e unidades comercializadas.
   - Segmentadores de dados (*slicers*) dinâmicos e botões com imagens associadas.
+
 - **Página 2 (Análise Detalhada):**
   - Utilização de indicadores (*Bookmarks*) para alternância dinâmica entre diferentes visuais sobre o mesmo assunto.
   - Botões de navegação avançada para garantir uma experiência fluida de relatório interativo.
