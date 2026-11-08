@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Governança-Indústria%204.0-orange?style=for-the-badge&logo=databricks&logoColor=white" alt="Indústria 4.0">
   <img src="https://img.shields.io/badge/Python-%20AI-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python & IA">
   <img src="https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-purple?style=for-the-badge&logo=ercot&logoColor=white" alt="Lean Six Sigma">
+  <img src="https://img.shields.io/badge/branch%20protection-active-success">
 </p>
 
 # Desafio de Projeto: Análise de Vendas com Power BI (Financials)
@@ -15,7 +16,7 @@
 > **AI Engineer | Especialista em Governança 4.0 e Qualidade | Engenheiro Químico**  
 > [Mauá, SP](mailto:ornelas.tozato@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rafaeltozato81) | [GitHub](https://github.com/Rafael-TOZATO) | [Portfólio PWA](https://tozato-dev-hub.vercel.app) | [Medium](https://medium.com/@ornelas.tozato)
 
-![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
+---
 
 Repositório desenvolvido como parte do desafio prático de Power BI da plataforma **DIO**, com foco na criação de relatórios gerenciais e interativos.
 
@@ -53,10 +54,6 @@ Para visualizar o projeto completo, realize o download do arquivo presente neste
 - **Arquivo:** [Desafio_Power_BI_Analyst_DIO.pbix](./Desafio_Power_BI_Analyst_DIO.pbix)
 
 Após o download, abra o arquivo utilizando o software **Power BI Desktop**.
-
----
-
-![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
 
 ---
 
