@@ -63,12 +63,10 @@ Este repositório adota controles automatizados de Governança 4.0 para assegura
 - Projeto original desenvolvido no âmbito da plataforma **DIO**.
 - Projeto customizado e implementado por **Rafael Ornelas Tozato**.
 
----
-
 ## 📬 CONTATOS E PERFIS
 
 💻 **PROJETOS E PORTFÓLIOS**
-* Ecossistema de Aplicativos: [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+* Ecossistema de Aplicativo: [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
 * H-Folio Professional: [h-folio-I0.vercel.app](https://h-folio-I0.vercel.app)
 
 🐙 **CÓDIGOS E REPOSITÓRIOS**
